@@ -4,13 +4,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I like to explore new technologies and develop software solutions collaboratively.\
+🎓 &nbsp;I am currently studying Information Systems Engineering at "Universidad Peruana de Ciencias Aplicadas".\
+🌱 &nbsp;I am on my way to learning more about Web Applications, Design and Systems Architecture.\
+✍️ &nbsp;In my free time, I dedicate myself to video games and designing websites.\
+💬 &nbsp;Do not hesitate to contact me to collaborate or learn together.\
+✉️ &nbsp;You can shoot me an email at adriano130804@gmail.com I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -53,8 +52,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/adriano-loro-ram%C3%ADrez-a748231b1/"><img src="https://img.shields.io/badge/-Adriano%20Loro%20Ramirez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/adrianolr13/"><img src="https://img.shields.io/badge/-@adrianolr13-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 

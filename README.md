@@ -9,7 +9,7 @@
 🌱 &nbsp;I am on my way to learning more about Web Applications, Design and Systems Architecture.\
 ✍️ &nbsp;In my free time, I dedicate myself to video games and designing websites.\
 💬 &nbsp;Do not hesitate to contact me to collaborate or learn together.\
-✉️ &nbsp;You can shoot me an email at adriano130804@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at adriano130804@gmail.com I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
